@@ -13,4 +13,4 @@ bootstrapping our react projects
 
 #### Build and run
 
-* `npm build:start'
+* `npm build:start`

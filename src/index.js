@@ -82,7 +82,7 @@ function modifyPackage () {
             {},
             packageObject,
             {
-                script: {
+                scripts: {
                     dev: "bash .bin/dev.sh",
                     "dev:clear": "bash .bin/dev.sh --clear"
                 },
